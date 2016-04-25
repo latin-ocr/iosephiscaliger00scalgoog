@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iosephiscaliger00scalgoog_0007.png"; bbox 0 0 3000 4725; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 506 930 2340 1183">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 506 930 2340 1183">
+     <span class='ocr_line' id='line_1_1' title="bbox 506 930 2340 1183; baseline -0.002 -82"><span class='ocrx_word' id='word_1_1' title='bbox 506 932 1265 1183; x_wconf 69' lang='lat' dir='ltr'>IOSEPHI</span> <span class='ocrx_word' id='word_1_2' title='bbox 1364 930 2340 1101; x_wconf 75' lang='lat' dir='ltr'><strong>SOALIGERI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 876 1340 1946 1457">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 876 1340 1946 1457">
+     <span class='ocr_line' id='line_1_2' title="bbox 876 1340 1946 1457; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 876 1343 1464 1457; x_wconf 77' lang='lat' dir='ltr'><strong>POEMATA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1540 1340 1946 1457; x_wconf 87' lang='lat' dir='ltr'><strong>OMNIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 638 1720 2221 1790">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 638 1720 2221 1790">
+     <span class='ocr_line' id='line_1_3' title="bbox 638 1720 2221 1790; baseline -0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 638 1723 783 1790; x_wconf 88' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 838 1720 1227 1790; x_wconf 88' lang='lat' dir='ltr'>MUSEIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1290 1722 1606 1789; x_wconf 89' lang='lat' dir='ltr'>PETRI</span> <span class='ocrx_word' id='word_1_8' title='bbox 1666 1722 2221 1789; x_wconf 76' lang='lat' dir='ltr'><strong>SCRIVERII.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1218 1997 1799 2584">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1218 1997 1799 2584">
+     <span class='ocr_line' id='line_1_4' title="bbox 1218 1997 1799 2584; baseline 0 2141"><span class='ocrx_word' id='word_1_9' title='bbox 1218 1997 1799 2584; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1194 2734 1663 2780">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1194 2734 1663 2780">
+     <span class='ocr_line' id='line_1_5' title="bbox 1194 2734 1663 2780; baseline 0.009 -4"><span class='ocrx_word' id='word_1_10' title='bbox 1194 2734 1663 2780; x_wconf 71' lang='lat' dir='ltr'>IIIIIIIIIIIII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 921 3116 1929 3125">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 921 3116 1929 3125">
+     <span class='ocr_line' id='line_1_6' title="bbox 921 3116 1929 3125; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 921 3116 1929 3125; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 1259 3736 1603 3778">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 1259 3736 1603 3778">
+     <span class='ocr_line' id='line_1_7' title="bbox 1259 3736 1603 3778; baseline -0.003 -1"><span class='ocrx_word' id='word_1_12' title='bbox 1259 3737 1342 3777; x_wconf 80' lang='lat' dir='ltr'><strong>MD</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1344 3736 1603 3778; x_wconf 68' lang='lat' dir='ltr'><strong>OOOOOOO</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
